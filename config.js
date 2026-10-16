@@ -1,1 +1,1 @@
-const mode = 'payment';
+const mode = 'production';
